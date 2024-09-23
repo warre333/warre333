@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Warre Bossaert, a 18 years old software developer.
+I'm Warre Bossaert, a 19 years old software developer.
 
 ## About me
 
