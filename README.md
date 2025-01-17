@@ -34,11 +34,12 @@ As for my future, I see it filled with endless possibilities and opportunities f
 
 Throughout my learning journey, I worked on multiple projects that have challenged me to apply and expand my skills. Some of these projects have seen the light of day, while others... well, let's just say they're still waiting for their moment of glory. But hey, even the projects that never quite made it to the finish line taught me valuable lessons.
 
-### Ongoing project: MenuCard Digitalization
+### Ongoing project: Modular webshop system
 
-I'm currently developing a platform for businesses to create and customize their online menu cards, easily shareable through websites or QR codes. 
+Find more about the project in the [repository](https://github.com/warre333/ExtensionWebshopPlatform)
 
 ### Project archive
 
 - RoShop: a marketplace designed specifically for game developers to buy and sell development assets. 
-- Speakr: Speakr is a social media web application developed as my final project in secondary school. It offers features such as post sharing, chat functionality, and advertisements. 
+- Speakr: Speakr is a social media web application developed as my final project in secondary school. It offers features such as post sharing, chat functionality, and advertisements.
+- MenuCard Digitalization: create, customize and host an online menu card, easily shareable through websites and/or QR codes.
