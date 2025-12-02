@@ -4,7 +4,7 @@ I'm Warre Bossaert, a young software developer.
 
 ## About me
 
-I'm passionate about two main things: hitting the gym and programming. Whether I'm lifting weights or diving into lines of code, I find joy and fulfillment in pushing myself to improve. I'm an active member of CodeFever, where I share my passion and knowledge with the young learners.
+I'm passionate about two main things: hitting the gym and programming. Whether I'm lifting weights or diving into lines of code, I find joy and fulfillment in pushing myself to improve. I'm an Software consultant at Comakers, my consulting agency where I can out my passion for software development and develop from idea to product.
 
 For me, life is all about continuous growth and self-improvement. Every day, I strive to be better than I was yesterday, both physically and mentally. Through my dedication to fitness and coding, I'm building a foundation for a brighter future, one where I can make a positive impact and inspire others to do the same.
 
@@ -17,15 +17,16 @@ As for my future, I see it filled with endless possibilities and opportunities f
 ```json
 {
     "skills": [
-        "JavaScript",
+        "JavaScript/TypeScript",
         "ReactJS",
+        "NextJS",
         "NodeJS",
-        "C#",
+        "C#, ASP.NET",
         "HTML",
         "CSS3",
         "TailwindCSS",
-        "Python",
-        "MySQL"
+        "MySQL",
+        "Postgres"
     ]
 }
 ```
@@ -33,10 +34,6 @@ As for my future, I see it filled with endless possibilities and opportunities f
 ## Projects
 
 Throughout my learning journey, I worked on multiple projects that have challenged me to apply and expand my skills. Some of these projects have seen the light of day, while others... well, let's just say they're still waiting for their moment of glory. But hey, even the projects that never quite made it to the finish line taught me valuable lessons.
-
-### Ongoing project: Modular webshop system
-
-Find more about the project in the [repository](https://github.com/warre333/ExtensionWebshopPlatform)
 
 ### Project archive
 
